@@ -1,6 +1,6 @@
 # Hacktoberfest
 
-# Run npm install to install node modeules.
+Run npm install to download packages and dependencies.
 
 -> User Login Portal using react and firebase.
 
