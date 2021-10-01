@@ -1,5 +1,7 @@
 # Hacktoberfest
 
+# Run npm install to install node modeules.
+
 -> User Login Portal using react and firebase.
 
 Features:
